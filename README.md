@@ -8,3 +8,5 @@
 
 # hello my name is keenan
 
+I am ready to learn
+
